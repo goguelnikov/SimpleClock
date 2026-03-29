@@ -10,8 +10,9 @@ Functions:
 Using HUB75 LED Matrix Panel (64x32)
 
 Based on Arduino projects by Tech Talkies YouTube Channel.
-https://www.youtube.com/@techtalkies1
-https://techtalkies.in/2024/07/19/rgb-internet-clock-with-esp32/?i=1
+
+https://www.youtube.com/watch?v=BChsJNzNCIU
+
 Please credit if you use.
 
 
